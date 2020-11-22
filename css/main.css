@@ -34,36 +34,37 @@ body {
     float: left;
   }
 
-  .celeste {
-    background: #22a6b3;
+  .green {
+    background: #6ebf04;
   }
 
-  .celeste.light {
-    background: #7ed6df;
+  .green.light {
+    background: #a0c76d;
   }
 
-  .violeta {
-    background: #be2edd;
+  .red {
+    background: #cc164a;
   }
 
-  .violeta.light {
-    background: #e056fd;
+  .red.light {
+    background: #d45f81;
   }
 
-  .naranja {
-    background: #f0932b;
+  .yellow {
+    background: #f0f007;
   }
 
-  .naranja.light {
-    background: #ffbe76;
+  .yellow.light {
+    background: #ffff85;
   }
 
-  .verde {
-    background: #6ab04c;
+  .blue {
+    background: #3f62e0;
+    
   }
 
-  .verde.light {
-    background: #badc58;
+  .blue.light {
+    background: #94a5e0;
   }
 
   .btn-start {
